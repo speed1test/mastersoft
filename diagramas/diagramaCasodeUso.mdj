@@ -2111,7 +2111,7 @@
 											"top": 310,
 											"width": 110,
 											"height": 26,
-											"text": "ver detalle pedido",
+											"text": "ver detalle de pedido",
 											"wordWrap": true
 										},
 										{
@@ -8510,7 +8510,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "ver detalle pedido",
+					"name": "ver detalle de pedido",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
