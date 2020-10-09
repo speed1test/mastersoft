@@ -3457,11 +3457,11 @@
 												"$ref": "AAAAAAF065MOevgkPiU="
 											},
 											"font": "Arial;13;1",
-											"left": 696,
+											"left": 714,
 											"top": 967.5,
-											"width": 117,
+											"width": 204,
 											"height": 13,
-											"text": "Gestionar articulos"
+											"text": "Actualizar existencia de articulos"
 										},
 										{
 											"_type": "LabelView",
@@ -3492,9 +3492,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 691,
+									"left": 709,
 									"top": 960.5,
-									"width": 128.47900390625,
+									"width": 215.1943359375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF065MOe/glH3w="
@@ -3594,7 +3594,7 @@
 							"containerChangeable": true,
 							"left": 664,
 							"top": 956,
-							"width": 181,
+							"width": 304,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAF065MOevgkPiU="
@@ -9193,7 +9193,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Gestionar articulos"
+					"name": "Actualizar existencia de articulos"
 				},
 				{
 					"_type": "UMLUseCase",
