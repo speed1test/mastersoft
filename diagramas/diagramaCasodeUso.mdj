@@ -2111,7 +2111,7 @@
 											"top": 310,
 											"width": 110,
 											"height": 26,
-											"text": "ver detalle de requisición",
+											"text": "Autorizar requisición",
 											"wordWrap": true
 										},
 										{
@@ -9104,7 +9104,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "ver detalle de requisición",
+					"name": "Autorizar requisición",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
