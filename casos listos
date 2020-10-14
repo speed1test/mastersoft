@@ -1,0 +1,21 @@
+Estan buenos:
+-Solicitar pedido
+-Generar orden de compra
+-Gestionar producto ofertados
+-Gestionar puesto de trabajo
+-Gestionar rol
+
+Estan mal:
+
+-Generar reportes 
+-Listar solicitudes de pedido
+-Ver detalle pedido
+
+-Listar solicitudes de pedidos aprovados
+-Ver detalle de pedido aprovado
+-Seleccionar proveedor por articulo
+
+-Actualizar existencias de articulo
+-Gestionar empleado
+-Gestionar proveedor
+
